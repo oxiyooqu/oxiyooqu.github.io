@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxiyooqu.github.io/Iaw/sitemap_index.txt
+Sitemap: https://oxiyooqu.github.io/Rfm/sitemap_index.txt
+Sitemap: https://oxiyooqu.github.io/fNd/sitemap_index.txt
+Sitemap: https://oxiyooqu.github.io/oei/sitemap_index.txt
